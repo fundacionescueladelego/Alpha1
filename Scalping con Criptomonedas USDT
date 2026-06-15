@@ -1,0 +1,252 @@
+# Scalping con Criptomonedas (USDT)
+## Guía Práctica: Liquidez, Frecuencia y Optimización de Capital
+
+---
+
+## 1. Criterios Clave para Scalping
+
+Las mejores criptomonedas para scalping cumplen tres condiciones:
+
+- **Alta liquidez** → permite entrar/salir sin slippage.
+- **Spread bajo** → reduce costos ocultos.
+- **Volatilidad intradiaria** → genera oportunidades constantes.
+
+---
+
+## 2. Ranking de Pares USDT para Scalping
+
+### 🔷 Alta liquidez (base estable)
+
+1. **BTC/USDT**
+   - Máximo volumen del mercado.
+   - Movimientos constantes.
+   - Ideal para ejecución rápida sin deslizamientos.
+
+2. **ETH/USDT**
+   - Alta estabilidad relativa.
+   - Excelente para soportes y resistencias.
+   - Muy utilizado en derivados.
+
+---
+
+### 🔷 Balance liquidez + volatilidad
+
+3. **SOL/USDT**
+   - Alta volatilidad intradía.
+   - Ideal para múltiples entradas rápidas.
+
+4. **AVAX/USDT**
+   - Fluctuaciones agresivas.
+   - Buen rendimiento en micro-movimientos.
+
+5. **BNB/USDT**
+   - Alta liquidez estructural.
+   - Beneficios en comisiones dentro de Binance.
+
+---
+
+### 🔷 Alta volatilidad (riesgo elevado)
+
+6. **DOGE/USDT**
+7. **SHIB/USDT**
+
+- Movimientos impredecibles.
+- Alta oportunidad / alto riesgo.
+
+---
+
+## 3. Tokens tipo BNB (Optimización de comisiones)
+
+Los tokens nativos de exchanges funcionan igual que BNB:
+
+| Token | Exchange | Ventaja |
+|------|--------|--------|
+| **OKB/USDT** | OKX | Descuentos por volumen |
+| **KCS/USDT** | KuCoin | ~20% descuento fees |
+| **BGB/USDT** | Bitget | Reducción en spot + futuros |
+| **MX/USDT** | MEXC | Maker 0% frecuente |
+
+**Idea clave:**
+> Reducir comisiones = aumentar rentabilidad del scalping.
+
+---
+
+## 4. Exchanges óptimos para scalping
+
+### 🔸 Bajos fees + alta ejecución
+
+- **Bybit**
+  - Maker: ~0.02%
+  - Taker: ~0.05%
+
+- **Bitget**
+  - Muy competitivo en derivados.
+
+- **BingX**
+  - Optimizado para trading rápido.
+
+- **Binance**
+  - Mayor liquidez global.
+  - Descuento usando BNB.
+
+---
+
+## 5. Matemática del Scalping (Caso BNB)
+
+### Supuestos:
+- Precio BNB ≈ **$614**
+- Movimiento objetivo:
+  - **$0.99** → viable
+  - **$0.15** → no viable
+
+---
+
+### 🔹 Resultado con movimiento $0.99
+
+| Ganancia | Maker (0.04%) | Taker (0.10%) |
+|--------|--------------|--------------|
+| $1 | $825 | $1,633 |
+| $3 | $2,475 | $4,900 |
+| $5 | $4,125 | $8,165 |
+
+---
+
+### 🔴 Movimiento $0.15 → NO rentable
+
+- Movimiento: **0.024%**
+- Fees mínimos: **0.04% – 0.10%**
+
+**Conclusión:**
+> Las comisiones superan la ganancia → pérdida garantizada.
+
+---
+
+## 6. Problema del capital bajo ($20)
+
+Con activos caros:
+
+- $20 en BNB → 0.03 unidades
+- Movimiento $1 → ganancia ≈ $0.03
+
+**Resultado:**
+> No cubre fees.
+
+---
+
+## 7. Estrategia correcta con $20
+
+### 🔹 Activos ideales (precio bajo)
+
+| Crypto | Precio aprox |
+|-------|-------------|
+| XRP | $0.5 – $1.1 |
+| ADA | $0.3 – $0.7 |
+| DOGE | $0.1 – $0.2 |
+| TRX | $0.1 – $0.2 |
+| SUI / APT | $1 – $3 |
+
+---
+
+### 🔹 Ventaja matemática
+
+Ejemplo:
+
+- Precio: $0.10
+- $20 → 200 tokens
+- Movimiento $0.01 → **+10% = $2**
+
+---
+
+## 8. Opciones operativas
+
+### Opción A — Futuros (apalancamiento)
+
+- $20 → $200 (10x)
+- $20 → $400 (20x)
+
+**Riesgo:** liquidación rápida.
+
+---
+
+### Opción B — Spot
+
+- Buscar movimientos > 1.5%
+- Menor riesgo
+- Ganancia más lenta
+
+---
+
+## 9. Enfoque avanzado: Trading como frecuencias
+
+El mercado no es “técnico”, es flujo algorítmico.
+
+---
+
+### 🔹 Estados del mercado
+
+- **Compresión**
+  - Baja volatilidad
+  - acumulación
+
+- **Expansión**
+  - ruptura violenta
+  - movimiento aprovechable
+
+---
+
+## 10. Order Book (clave real del scalping)
+
+### 1. Desequilibrio (OBI)
+
+- Más bids → presión alcista
+- Más asks → presión bajista
+
+---
+
+### 2. Muros de liquidez
+
+- **Reales**
+  - No desaparecen
+  - Se ejecutan
+
+- **Spoofing**
+  - Aparecen/desaparecen
+  - Manipulación
+
+---
+
+### 3. Spread
+
+- Diferencia bid / ask
+- Si es alto → pérdida inmediata
+
+**Regla:**
+> usar órdenes LIMIT (maker)
+
+---
+
+## 11. Principio fundamental
+
+> El scalping rentable no depende del indicador,  
+> sino de:
+>
+> - Liquidez
+> - Fees
+> - Frecuencia del movimiento
+> - Control del capital
+
+---
+
+## 12. Conclusión operativa
+
+- Evitar activos caros con poco capital
+- Priorizar:
+  - bajo precio
+  - alto volumen
+  - bajo spread
+- Usar maker siempre que sea posible
+- Micro-movimientos deben superar fees
+
+---
+
+## 13. Regla simple final
