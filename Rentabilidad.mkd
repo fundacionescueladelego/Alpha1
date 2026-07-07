@@ -1,0 +1,34 @@
+Para obtener una rentabilidad que valga la pena el tiempo invertido utilizando estrategias conservadoras (arriesgando entre el 1% y el 2% por operación, en lugar del 3.33%), el capital mínimo inicial recomendado es de 1,000 USD.
+Aquí tienes el análisis matemático de por qué este capital cambia las reglas del juego y cómo se calcula la rentabilidad real:
+## 1. El cálculo con un capital de 1,000 USD
+Al aplicar una gestión de riesgo profesional y conservadora del 1.5% por operación sobre 1,000 USD:
+
+* Riesgo por operación: Puedes permitirte perder un máximo de 15 USD por posición.
+* Flexibilidad en el lote: Con un Stop Loss de 10 pips, ya no estás atado al lote mínimo. Puedes operar con 0.15 lotes (1.5 minilotes), donde cada pip equivale a 1.50 USD.
+* Margen de maniobra: Tienes espacio para absorber rachas de pérdidas sin poner en peligro la cuenta.
+
+## 2. ¿Qué rentabilidad real puedes esperar?
+Una estrategia de scalping conservadora y bien ejecutada busca generar un promedio neto de entre el 5% y el 10% mensual sobre el capital total.
+
+* Con 30 USD: Un excelente mes del 10% te dará 3 USD de ganancia. Esto no compensa las horas frente a la pantalla ni el costo de las comisiones del broker.
+* Con 1,000 USD: Ese mismo 10% se traduce en 100 USD mensuales de ganancia neta.
+
+## 3. Tabla comparativa de capitales y gestión de riesgo (Stop Loss de 10 pips)
+
+| Capital Inicial [1] | Riesgo Conservador | Pérdida en USD | Tamaño de Lote Exacto | Ganancia Estimada (10% mensual) |
+|---|---|---|---|---|
+| 30 USD | 3.33% (Obligado) | 1.00 USD | 0.01 lotes | 3 USD |
+| 200 USD | 1.50% | 3.00 USD | 0.03 lotes | 20 USD |
+| 500 USD | 1.50% | 7.50 USD | 0.07 lotes | 50 USD |
+| 1,000 USD | 1.50% | 15.00 USD | 0.15 lotes | 100 USD |
+
+## El enfoque inteligente para comenzar
+Si tu presupuesto actual es de 30 USD, tienes dos caminos profesionales para escalar:
+
+   1. Fase de acumulación: Usa esos 30 USD exclusivamente para aprender a dominar la plataforma y la estrategia en vivo, asumiendo que es un capital de educación. Mientras tanto, ahorra hasta alcanzar un capital mayor. [2] 
+   2. Cuentas de Fondeo (Prop Firms): Existen empresas que, tras superar un examen que cuesta entre 30 y 80 USD, te prestan capitales de 5,000 USD o 10,000 USD para operar si demuestras ser conservador y rentable.
+
+¿Te interesa que analicemos cómo funcionan las cuentas de fondeo como alternativa para operar con capital alto, o prefieres armar un plan para escalar tu cuenta propia de forma progresiva?
+
+[1] [https://ftmo.com](https://ftmo.com/es/blog/10-pasos-para-construir-una-estrategia-de-trading/)
+[2] [https://www.tiktok.com](https://www.tiktok.com/@kevsantamaria/video/7653346935671098645)
