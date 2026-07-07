@@ -1,0 +1,44 @@
+No, Kraken no sirve para hacer scalping tradicional en Forex, a pesar de que la plataforma ha expandido enormemente sus servicios en 2026 incorporando tanto [Forex en Spot como Futuros Perpetuos de FX](https://www.kraken.com/es-es/features/forex-trading-markets). [1, 2, 3] 
+Kraken es, en su raíz, un Exchange o casa de intercambio de criptomonedas fundado en 2011. Aunque actualmente permite operar divisas tradicionales (como EUR, USD o JPY), su estructura y costos no están diseñados para el scalping. [4, 5, 6] 
+Aquí tienes el análisis detallado de por qué no te conviene y cuáles son sus plataformas similares.
+------------------------------
+## ¿Por qué Kraken NO sirve para Scalping de Forex?
+
+* Estructura de Comisiones (Altas para Scalping): Los brokers de Forex tradicionales (como IC Markets o Pepperstone) te cobran un spread de 0.0 pips y una pequeña comisión fija por lote. Kraken, en cambio, utiliza un modelo de comisiones por porcentaje (Maker/Taker de aproximadamente 0.16% a 0.26%). En un gráfico de 1 o 5 minutos, estas comisiones porcentuales se "comerían" inmediatamente tus ganancias. [7, 8, 9] 
+* Falta de Margen/Apalancamiento Tradicional: El trading de Forex en Spot puro dentro de Kraken no ofrece el apalancamiento tradicional masivo (1:100 o 1:500) que se necesita para exprimir ganancias de pocos pips con capitales pequeños. Aunque lanzaron [Futuros Perpetuos de FX con apalancamiento de hasta 20x](https://www.theblock.co/post/351275/kraken-forex-perpetual-futures-gbp-usd-eur-usd-trading-pairs), siguen siendo contratos pensados para el ecosistema cripto y no Forex puro. [10, 11] 
+* Incompatibilidad con MetaTrader: Para hacer scalping necesitas la velocidad extrema de MetaTrader 4/5 o cTrader conectados a servidores de baja latencia. Kraken opera a través de su propia interfaz web/app o mediante conexiones API avanzadas, lo que complica la ejecución ultrarrápida manual que requiere tu estrategia. [3, 12, 13] 
+
+------------------------------
+## Plataformas similares a Kraken (Exchanges de Criptomonedas)
+Si buscas plataformas de la misma categoría que Kraken (es decir, exchanges de criptomonedas que intentan cruzar al mundo tradicional de acciones, índices o divisas), las más conocidas son: [14] 
+
+* Binance: El gigante cripto mundial. Al igual que Kraken, te permite comerciar monedas fiat pero de manera muy limitada y orientada al intercambio, no al trading de Forex. [15, 16, 17, 18] 
+* Bybit: Muy popular por sus futuros de criptomonedas de alta velocidad. Aunque han integrado algunos activos tradicionales tokenizados, sus costos siguen estando optimizados para criptos, no para Forex.
+* Bitget o OKX: Similares en su enfoque de contratos perpetuos, pero completamente ineficientes si intentas meter y sacar operaciones de 10 pips en el USD/JPY.
+
+------------------------------
+## Conclusión: ¿Qué debes hacer?
+
+* Usa Kraken si: Quieres comprar criptomonedas de forma ultra segura, hacer holding a largo plazo o invertir en stocks y ETFs globales bajo un entorno regulado. [7, 12] 
+* Evita Kraken si: Tu meta es aplicar la estrategia de ruptura en la apertura de Nueva York para el EUR/JPY o USD/JPY. Para eso, debes mantenerte estrictamente con un Broker de Forex ECN dedicado (como los mencionados en la guía anterior).
+
+¿Te gustaría que veamos detalladamente cómo abrir y fondear correctamente una cuenta de práctica (Demo) en un broker de Forex real desde Argentina para que pruebes tu estrategia sin riesgo?
+
+[1] [https://www.kraken.com](https://www.kraken.com/es-es/features/forex-trading-markets)
+[2] [https://www.coindesk.com](https://www.coindesk.com/business/2025/04/17/crypto-exchange-kraken-launches-fx-perpetual-futures-offers-24-7-trading-in-forex-majors)
+[3] [https://www.kraken.com](https://www.kraken.com/es-es/features/forex-trading-markets)
+[4] [https://www.kraken.com](https://www.kraken.com/es-es/features/forex-trading-markets)
+[5] [https://es.wikipedia.org](https://es.wikipedia.org/wiki/Kraken_%28empresa%29)
+[6] [https://www.youtube.com](https://www.youtube.com/watch?v=gBxjhUyyRgk)
+[7] [https://www.youtube.com](https://www.youtube.com/watch?v=3N51NHP6Ggo&t=123)
+[8] [https://www.bestbrokers.com](https://www.bestbrokers.com/es/forex-brokers/best-forex-brokers-for-scalping/)
+[9] [https://www.brokersregulados.com](https://www.brokersregulados.com/plataformas/spreads-mas-bajos/)
+[10] [https://www.theblock.co](https://www.theblock.co/post/351275/kraken-forex-perpetual-futures-gbp-usd-eur-usd-trading-pairs)
+[11] [https://support.kraken.com](https://support.kraken.com/articles/forex-perpetual-futures)
+[12] https://www.kraken.com
+[13] [https://www.kraken.com](https://www.kraken.com/es/learn/kraken-vs-kraken-pro)
+[14] [https://www.kraken.com](https://www.kraken.com/es/learn/kraken-vs-kraken-pro)
+[15] [https://www.kraken.com](https://www.kraken.com/es/learn/gemini-alternatives)
+[16] [https://es.tradingview.com](https://es.tradingview.com/news/europapress:661cd7f3309cd:0/)
+[17] [https://www.theblock.co](https://www.theblock.co/post/58499/crypto-exchange-kraken-gets-into-forex-trading-business)
+[18] [https://www.coindesk.com](https://www.coindesk.com/es/business/2026/03/04/kraken-becomes-first-crypto-company-to-secure-fed-master-account-access-wsj)
