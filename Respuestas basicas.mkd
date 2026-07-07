@@ -1,1 +1,60 @@
-Guía Completa de Scalping en Forex para EUR/JPY y USD/JPY desde ArgentinaEl mercado Forex opera ininterrumpidamente las 24 horas del día, 5 días a la semana, desde el domingo a las 17:00 hasta el viernes a las 17:00 (hora del Este de EE. UU.). Para un operador en Argentina, este horario equivale al período comprendido entre las 19:00 del domingo y las 19:00 del viernes.1. Sesiones de Mercado y Ventanas Horarias Ideales (Hora AR)El mercado se divide en cuatro sesiones principales, cuyos horarios locales en Argentina son:Sídney: 19:00 a 04:00Tokio: 21:00 a 06:00Londres: 05:00 a 13:00Nueva York: 10:00 a 19:00Para hacer scalping en los pares EUR/JPY y USD/JPY, se recomiendan dos ventanas específicas según tu estilo de trading:Ventana Principal: El Solapamiento ClaveHorario: 10:00 a 13:00Contexto: Coinciden las sesiones de Londres y Nueva York.Ventajas: Explotación de volumen, spreads mínimos por alta liquidez y volatilidad acelerada ideal para capturar pips en minutos.Ventana Secundaria: Sesión AsiáticaHorario: 21:00 a 02:00Contexto: Apertura de Tokio combinada con publicaciones económicas de Japón.Ventajas: Movimientos más constantes, predecibles y menos erráticos que en la sesión americana.2. Estrategia Operativa: Ruptura del Rango Inicial (Opening Range Breakout)Diseñada específicamente para la apertura de Nueva York (10:00 AR):Definir el rango: De 09:45 a 10:00, observa y marca los precios máximos y mínimos alcanzados en un gráfico de 5 minutos.Confirmar la ruptura: A partir de las 10:00, espera a que una vela de 1 o 5 minutos cierre con cuerpo por encima del máximo o por debajo del mínimo marcado.Entrada al mercado: Ejecuta la orden inmediatamente en la dirección de la ruptura.Gestión de riesgo: Coloca tu Stop Loss entre 5 y 10 pips por detrás de la línea de ruptura. Busca un Take Profit rápido de 10 a 15 pips.3. Configuración de Indicadores Técnicos (Gráficos de 1 min / 5 min)Medias Móviles Exponenciales (EMA de 9 y 20 períodos): Identifican la microtendencia. Opera a favor del movimiento cuando ambas líneas se separen de forma paralela.Bandas de Bollinger (20, 2): Ideales para capturar reversiones rápidas cuando el precio toca los extremos de las bandas en momentos de menor volumen.Oscilador Estocástico o RSI (14): Filtros de seguridad. Evita comprar si el mercado está sobrecomprado (> 80) o vender si está sobrevendido (< 20).4. Gestión de Noticias y Filtro MacroeconómicoEl scalping requiere protección absoluta frente a eventos informativos inesperados utilizando herramientas como el Calendario Económico de Investing.com o Myfxbook.La Regla de Oro: No operes 15 minutos antes ni 15 minutos después de noticias de alto impacto ("3 estrellas" o "carpetas rojas").Eventos críticos: Presta atención al desempleo (NFP), IPC o decisiones de la Fed (EE. UU.), anuncios de tipos de interés del BCE (Eurozona) y políticas del BoJ (Japón). Estos eventos ensanchan los spreads bruscamente y provocan deslizamientos (slippage).5. Comparativa de Brokers Recomendados para ScalpingPara hacer scalping desde Argentina, debes elegir cuentas de tipo RAW Spread o ECN con servidores de baja latencia y spreads cercanos a 0.0 pips a cambio de una comisión fija.BrokerTipo de EjecuciónSpread Promedio (EUR/USD / USD/JPY)Plataformas RecomendadasVentaja Clave para ArgentinaIC MarketsECN PuroDesde 0.0 pips (+ comisión de USD 3.5 por lote)MT4, MT5, cTraderServidores de ultra baja latencia (10ms) para ejecuciones instantáneas.PepperstoneSTP / ECNDesde 0.0 pips (+ comisión de USD 3.5 por lote)MT4, MT5, cTrader, TradingViewMáxima liquidez y vinculación directa con tus gráficos de TradingView.Fusion MarketsECNDesde 0.0 pips (+ comisión de USD 2.25 por lote)MT4, MT5, cTraderLas comisiones más bajas del mercado, maximizando el rendimiento neto de cada pip.¿Qué paso prefieres dar ahora? Puedo ayudarte a calcular el tamaño de lote adecuado según tu capital inicial o explicarte cómo configurar la plataforma MetaTrader 5 / TradingView para esta estrategia.
+## Guía Completa de Scalping en Forex para EUR/JPY y USD/JPY desde Argentina
+El mercado Forex opera ininterrumpidamente las 24 horas del día, 5 días a la semana, desde el domingo a las 17:00 hasta el viernes a las 17:00 (hora del Este de EE. UU.). Para un operador en Argentina, este horario equivale al período comprendido entre las 19:00 del domingo y las 19:00 del viernes.
+------------------------------
+## 1. Sesiones de Mercado y Ventanas Horarias Ideales (Hora AR)
+El mercado se divide en cuatro sesiones principales, cuyos horarios locales en Argentina son:
+
+* Sídney: 19:00 a 04:00
+* Tokio: 21:00 a 06:00
+* Londres: 05:00 a 13:00
+* Nueva York: 10:00 a 19:00
+
+Para hacer scalping en los pares EUR/JPY y USD/JPY, se recomiendan dos ventanas específicas según tu estilo de trading:
+## Ventana Principal: El Solapamiento Clave
+
+* Horario: 10:00 a 13:00
+* Contexto: Coinciden las sesiones de Londres y Nueva York.
+* Ventajas: Explotación de volumen, spreads mínimos por alta liquidez y volatilidad acelerada ideal para capturar pips en minutos.
+
+## Ventana Secundaria: Sesión Asiática
+
+* Horario: 21:00 a 02:00
+* Contexto: Apertura de Tokio combinada con publicaciones económicas de Japón.
+* Ventajas: Movimientos más constantes, predecibles y menos erráticos que en la sesión americana.
+
+------------------------------
+## 2. Estrategia Operativa: Ruptura del Rango Inicial (Opening Range Breakout)
+Diseñada específicamente para la apertura de Nueva York (10:00 AR):
+
+   1. Definir el rango: De 09:45 a 10:00, observa y marca los precios máximos y mínimos alcanzados en un gráfico de 5 minutos.
+   2. Confirmar la ruptura: A partir de las 10:00, espera a que una vela de 1 o 5 minutos cierre con cuerpo por encima del máximo o por debajo del mínimo marcado.
+   3. Entrada al mercado: Ejecuta la orden inmediatamente en la dirección de la ruptura.
+   4. Gestión de riesgo: Coloca tu Stop Loss entre 5 y 10 pips por detrás de la línea de ruptura. Busca un Take Profit rápido de 10 a 15 pips.
+
+------------------------------
+## 3. Configuración de Indicadores Técnicos (Gráficos de 1 min / 5 min)
+
+* Medias Móviles Exponenciales (EMA de 9 y 20 períodos): Identifican la microtendencia. Opera a favor del movimiento cuando ambas líneas se separen de forma paralela.
+* Bandas de Bollinger (20, 2): Ideales para capturar reversiones rápidas cuando el precio toca los extremos de las bandas en momentos de menor volumen.
+* Oscilador Estocástico o RSI (14): Filtros de seguridad. Evita comprar si el mercado está sobrecomprado (> 80) o vender si está sobrevendido (< 20).
+
+------------------------------
+## 4. Gestión de Noticias y Filtro Macroeconómico
+El scalping requiere protección absoluta frente a eventos informativos inesperados utilizando herramientas como el Calendario Económico de Investing.com o Myfxbook.
+
+* La Regla de Oro: No operes 15 minutos antes ni 15 minutos después de noticias de alto impacto ("3 estrellas" o "carpetas rojas").
+* Eventos críticos: Presta atención al desempleo (NFP), IPC o decisiones de la Fed (EE. UU.), anuncios de tipos de interés del BCE (Eurozona) y políticas del BoJ (Japón). Estos eventos ensanchan los spreads bruscamente y provocan deslizamientos (slippage).
+
+------------------------------
+## 5. Comparativa de Brokers Recomendados para Scalping
+Para hacer scalping desde Argentina, debes elegir cuentas de tipo RAW Spread o ECN con servidores de baja latencia y spreads cercanos a 0.0 pips a cambio de una comisión fija.
+
+| Broker | Tipo de Ejecución | Spread Promedio (EUR/USD / USD/JPY) | Plataformas Recomendadas | Ventaja Clave para Argentina |
+|---|---|---|---|---|
+| IC Markets[](https://www.icmarkets.com/) | ECN Puro | Desde 0.0 pips (+ comisión de USD 3.5 por lote) | MT4, MT5, cTrader | Servidores de ultra baja latencia (10ms) para ejecuciones instantáneas. |
+| Pepperstone[](https://pepperstone.com/) | STP / ECN | Desde 0.0 pips (+ comisión de USD 3.5 por lote) | MT4, MT5, cTrader, TradingView | Máxima liquidez y vinculación directa con tus gráficos de TradingView. |
+| Fusion Markets[](https://fusionmarkets.com/) | ECN | Desde 0.0 pips (+ comisión de USD 2.25 por lote) | MT4, MT5, cTrader | Las comisiones más bajas del mercado, maximizando el rendimiento neto de cada pip. |
+
+------------------------------
+¿Qué paso prefieres dar ahora? Puedo ayudarte a calcular el tamaño de lote adecuado según tu capital inicial o explicarte cómo configurar la plataforma MetaTrader 5 / TradingView para esta estrategia.
+
